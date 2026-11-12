@@ -10,6 +10,7 @@ I'm a software engineer passionate about developing scalable backend systems, au
 
 ## 📌 Highlighted Projects
 
+- [**generic-email-mcp**](https://github.com/anux-linux/generic-email-mcp): A generic MCP you can include and deploy to GCP, which will run basically for free and connect your email accounts to an AI of your choice. 
 - [**cdk-autoscaling-gitlab-runner**](https://github.com/anux-linux/cdk-autoscaling-gitlab-runner): Automates GitLab CI runners on AWS EC2 using Docker Machine and CDK.
 - [**spring-otel-taskmanager**](https://github.com/anux-linux/spring-otel-taskmanager): A starter project leveraging Spring for building reactive Java applications.
 - [**kulturetelefon-pbx**](https://github.com/anux-linux/kulturtelefon-pbx): Fork of FusionPBX, a multi-tenant PBX system built on FreeSWITCH.
