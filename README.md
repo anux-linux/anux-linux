@@ -4,9 +4,10 @@ I'm a software engineer passionate about developing scalable backend systems, au
 
 ## 🔧 Technologies & Interests
 
-- **Cloud & Infrastructure**: Proficient in AWS, CDK, Docker, and CI/CD pipelines.
-- **Backend Development**: Experienced with Java, Python, Go, and PHP.
-- **Telephony Systems**: Engaged in projects involving FusionPBX and FreeSWITCH.
+- **Cloud & Infrastructure**: Proficient in GCP, AWS, CDK, Docker, and CI/CD pipelines. Expertice to connect on prem and cloud infrastructure.
+- **AI native**: Leveraging AI tools and development practices to build software with impact.
+- **Backend Development**: Experienced with Node, Python, Go, and PHP.
+- **Telephony Systems**: Developed [**Kulturtelefon**](https://www.kulturtelefon.de/), a leading claud based telephony service. 
 
 ## 📌 Highlighted Projects
 
